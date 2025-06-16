@@ -17,5 +17,3 @@ Tools and Skills Used:
 File Descriptions:
 - community-dashboard.xlsx: Contains the full Excel dashboard with live, interactive elements.
 - community-dashboard.pdf (optional): Preview version of the dashboard layout for non-Excel viewing.
-
-This project demonstrates practical Excel dashboard development and is suitable for roles involving data visualization, business analysis, and reporting.
